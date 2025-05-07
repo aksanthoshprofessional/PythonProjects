@@ -26,27 +26,27 @@ You can install missing dependencies with:
 pip install requests beautifulsoup4
 ```
 Usage
-- ** Run the script using:**
+- Run the script using:
 
 ```bash
 python script.py
 ```
-2.Enter the search query for images.
+- Enter the search query for images.
 
-3.Specify the number of images to download.
+- Specify the number of images to download.
 
-4.Select a folder where the images will be stored.
+- Select a folder where the images will be stored.
 
-5.Wait for the progress indicator to complete.
+- Wait for the progress indicator to complete.
 
-6.The images will be saved in the selected directory.
+- The images will be saved in the selected directory.
 
 ## Author
 Developed by Santhosh.A
 
 ## Notes
-1.This scraper fetches images from Google Image search results.
+- This scraper fetches images from Google Image search results.
 
-2.Due to changes in Google's structure, functionality may require updates.
+- Due to changes in Google's structure, functionality may require updates.
 
-3.Use this tool responsibly, respecting web scraping policies and image copyrights.
+- Use this tool responsibly, respecting web scraping policies and image copyrights.
