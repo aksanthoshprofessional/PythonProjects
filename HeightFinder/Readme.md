@@ -50,7 +50,7 @@ python HeightFinder.py
 - The final height is computed using the distance and tangent function.
 
 ## Author
-Developed by Santhosh.A
+- Developed by Santhosh.A
 
 ## Notes
 - Ensure images are clear and the object has distinguishable reference points.
