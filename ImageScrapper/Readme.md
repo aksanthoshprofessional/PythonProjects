@@ -41,10 +41,10 @@ python script.py
 
 6.The images will be saved in the selected directory.
 
-##Author
+## Author
 Developed by Santhosh.A
 
-##Notes
+## Notes
 1.This scraper fetches images from Google Image search results.
 
 2.Due to changes in Google's structure, functionality may require updates.
