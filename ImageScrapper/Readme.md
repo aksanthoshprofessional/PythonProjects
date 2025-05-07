@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **Google Image Scraper** is designed to streamline the process of gathering large datasets of images for training machine learning models. Leveraging the power of Tkinter, Requests, and os libraries, this tool provides an efficient solution for collecting and organizing images at scale. With its intuitive graphical interface, users can specify search queries, select the number of images required, and manage their downloads seamlessly.
+The **Google Image Scraper**  provides an efficient solution for collecting and organizing images at scale. It is made using Tkinter, Requests, and os libraries. With its intuitive graphical interface, users can specify search queries, select the number of images required, and manage their downloads seamlessly. It can be used to to streamline the process of gathering large datasets of images for training machine learning models.
 
 ## Features
 
