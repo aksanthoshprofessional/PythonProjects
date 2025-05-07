@@ -29,7 +29,7 @@ pip install requests beautifulsoup4
 - Run the script using:
 
 ```bash
-python GoogleImageScrapper.py
+python GoogleImageScraper.py
 ```
 - Enter the search query for images.
 
