@@ -25,7 +25,7 @@ You can install missing dependencies with:
 ```bash
 pip install requests beautifulsoup4
 ```
-Usage
+## Usage
 - Run the script using:
 
 ```bash
