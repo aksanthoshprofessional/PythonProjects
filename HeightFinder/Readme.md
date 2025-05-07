@@ -30,7 +30,7 @@ pip install opencv-python
 - Run the script using:
 
 ```bash
-python script.py
+python HeightFinder.py
 ```
 - Select an image using the Open Image button.
 
